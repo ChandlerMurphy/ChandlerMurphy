@@ -1,9 +1,6 @@
 ## Hello World! 👋
 
-<!--
 **ChandlerMurphy/ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 I’m currently working on developing my skills as both a Front End Engineer and Software/Back End Engineer
 🌱 I’m currently learning Web Development and Databases
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with futhering my career
 💬 Ask me about my courses and schooling thus far
 📫 How to reach me: chandlermurphy02@gmail.com
--->
