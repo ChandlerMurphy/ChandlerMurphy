@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-**ChandlerMurphy/ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ChandlerMurphy/ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` is for my general works and projects.
 
 🔭 I’m currently working on developing my skills as both a Front End Engineer and Software/Back End Engineer
 
