@@ -1,10 +1,10 @@
 ## Hello World! 👋
 
-**ChandlerMurphy/ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` is for my general works and projects.
+**ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` is for my general works and projects.
 
 🔭 I’m currently working on developing my skills as both a Front End Engineer and Software/Back End Engineer
 
-🌱 I’m currently learning Web Development and Databases
+🌱 I’m currently learning Web Development and Databases through BYU Pathways
 
 👯 I’m looking to collaborate on Back End Projects
 
