@@ -1,15 +1,23 @@
-## Hello World! 👋
+# Chandler Murphy
 
-**ChandlerMurphy** is a ✨ _special_ ✨ repository because its `README.md` is for my general works and projects.
+Hello, GitHub! 👋
 
-🔭 I’m currently working on developing my skills as both a Front End Engineer and Software/Back End Engineer
+I'm Chandler, a student at Brigham Young University-Idaho interested in software development. Welcome to my GitHub profile!
 
-🌱 I’m currently learning Web Development and Databases through BYU Pathways
+## About Me
 
-👯 I’m looking to collaborate on Back End Projects
+- I'm currently learning C#, C++, and software testing.
+- My goals are to become a fulltime software developer, create an ongoing functioning app, educate others on how they can do the same.
+- Ask me about projects I've worked on, people I've worked with, and how you can get started as well!
 
-🤔 I’m looking for help with futhering my career
+## Technologies and Tools
 
-💬 Ask me about my courses and schooling thus far
+- Proficient in: HTML, CSS, JavaScript, TypeScript, C#, C++, PostGre, MySQL, SQL, GitHub, and VS Code.
+- Skills: Critical thinking​, personal & managerial accountability, remote work, teamwork, leadership
 
-📫 How to reach me: chandlermurphy02@gmail.com
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/chandler-murphy/) profile
+- Here is my [Email](chandlermurphy02@gmail.com)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
